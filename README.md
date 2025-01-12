@@ -1,0 +1,2 @@
+# MailBOT
+send multiple mail
